@@ -1,0 +1,7 @@
+com/mohan/bookmarks_api_backend/domain/Bookmark.class
+com/mohan/bookmarks_api_backend/repository/BookmarkRepository.class
+com/mohan/bookmarks_api_backend/service/BookmarkService.class
+com/mohan/bookmarks_api_backend/domain/BookmarkMapper.class
+com/mohan/bookmarks_api_backend/BookmarksApiBackendApplication.class
+com/mohan/bookmarks_api_backend/domain/dto/BookmarkDto.class
+com/mohan/bookmarks_api_backend/controller/BookmarkController.class

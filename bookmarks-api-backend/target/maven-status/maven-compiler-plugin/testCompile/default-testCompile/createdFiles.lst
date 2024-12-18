@@ -1,0 +1,4 @@
+com/mohan/bookmarks_api_backend/TestcontainersConfiguration.class
+com/mohan/bookmarks_api_backend/TestBookmarksApiBackendApplication.class
+com/mohan/bookmarks_api_backend/BookmarksApiBackendApplicationTests.class
+com/mohan/bookmarks_api_backend/controller/BookmarkControllerTest.class
