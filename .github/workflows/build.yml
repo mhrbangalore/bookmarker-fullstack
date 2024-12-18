@@ -5,6 +5,7 @@ on:
     paths:
       - "bookmarks-api-backend/**"
     branches: [ "main" ]
+  workflow_dispatch:
   pull_request:
     paths:
       - "bookmarks-api-backend/**"
