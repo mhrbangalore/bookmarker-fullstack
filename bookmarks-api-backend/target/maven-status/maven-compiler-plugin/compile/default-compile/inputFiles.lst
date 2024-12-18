@@ -1,7 +1,7 @@
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/BookmarksApiBackendApplication.java
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/controller/BookmarkController.java
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/domain/Bookmark.java
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/domain/BookmarkMapper.java
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/domain/dto/BookmarkDto.java
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/repository/BookmarkRepository.java
-/Users/mohan/Desktop/software_development/backend/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/service/BookmarkService.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/BookmarksApiBackendApplication.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/controller/BookmarkController.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/domain/Bookmark.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/domain/BookmarkMapper.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/domain/dto/BookmarkDto.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/repository/BookmarkRepository.java
+/Users/mohan/Desktop/software_development/backend/bookmarks-fullstack/bookmarks-api-backend/src/main/java/com/mohan/bookmarks_api_backend/service/BookmarkService.java

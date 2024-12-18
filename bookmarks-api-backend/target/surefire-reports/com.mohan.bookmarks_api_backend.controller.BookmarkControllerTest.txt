@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mohan.bookmarks_api_backend.controller.BookmarkControllerTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.259 s -- in com.mohan.bookmarks_api_backend.controller.BookmarkControllerTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.662 s -- in com.mohan.bookmarks_api_backend.controller.BookmarkControllerTest
